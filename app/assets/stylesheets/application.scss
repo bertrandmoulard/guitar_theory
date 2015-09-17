@@ -6,3 +6,18 @@
 @import "neat";
 @import "base/base";
 @import "refills/flashes";
+@import "vextab";
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+body * {
+  font-family: Georgia, serif;
+}
+
+.vex-canvas {
+  display: block;
+  margin: 0 auto;
+}
